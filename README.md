@@ -1,4 +1,4 @@
-# Hi, I'm Ruby 👋
+# Hi, I'm Rubikha 👋
 
 - 🌱 Comfortable with **Python** and exploring AI/ML  
 - 💻 Strengthening skills in **HTML, CSS, C, and JavaScript**   
