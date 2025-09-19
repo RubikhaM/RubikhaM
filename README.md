@@ -1,6 +1,6 @@
-# Hi, I'm Rubikha 👋
+# Hi, I'm Ruby 👋
 
-- 🌱 Currently learning Python, AI/ML, and open-source development  
-- 💻 Comfortable with **HTML, CSS, and C**  
-- 🚀 Excited to contribute to open-source projects and grow my skills  
+- 🌱 Comfortable with **Python** and exploring AI/ML  
+- 💻 Strengthening skills in **HTML, CSS, C, and JavaScript**   
+- 🚀 Excited to contribute to open-source projects and collaborate with peers
 
